@@ -2,16 +2,16 @@
 
 Modifications require a "$" sign at the beginning of a link to tell it to get specific options\
 if you want to add more than 1 modification you have to put the "&" sign betwem each\
-\
+
 1. **Autoplay**\
 autoplay can be archieved trought writting it this way\
 [https://www.youtube.com/watch?v=wu4l0qSohLQ$autoplay=1](https://www.youtube.com/watch?v=wu4l0qSohLQ$autoplay=1)\
-\
+
 2. **Loop**
 Loop is similar just add loop=1\
 [https://www.youtube.com/watch?v=wu4l0qSohLQ$loop=1](https://www.youtube.com/watch?v=wu4l0qSohLQ$loop=1)\
 _note: it won't work as a link directly to the video, might work for other video formats sent trought plaform such as discord_\
-\
+
 3. **Muted video**\
 [https://www.youtube.com/watch?v=wu4l0qSohLQ$mute=1](https://www.youtube.com/watch?v=wu4l0qSohLQ$mute=1)\
 The video will be muted but usually mute comes with autoplay to not make the user get an unnexpected scarejump at the start of a video
@@ -19,7 +19,7 @@ The video will be muted but usually mute comes with autoplay to not make the use
 4. **During the video, no suggestions inside the video**\
 [https://www.youtube.com/watch?v=wu4l0qSohLQ$rel=0](https://www.youtube.com/watch?v=wu4l0qSohLQ$rel=0)\
 this frame will not show more videos after it played.\
-\
+
 5. **start at specific time**\
 [https://www.youtube.com/watch?v=wu4l0qSohLQ?t=13](https://www.youtube.com/watch?v=wu4l0qSohLQ?t=13)\
 the amount of second be stored there as seconds "?t=13".
