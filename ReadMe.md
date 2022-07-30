@@ -54,6 +54,7 @@ www.nsfwyoutube.com
 which can bypass the age restriction on videos.
 [https://www.nsfwyoutube.com/watch?v=wu4l0qSohLQ](https://www.nsfwyoutube.com/watch?v=wu4l0qSohLQ)
 Don't worry, theres nothing specificly NFSW its litterally just a bypass of the age restriction we all hate in europe
+**Note: google deactivated that function**
 
 3.
 ```
@@ -64,6 +65,15 @@ Which is here to make gifs easely out of videos
 You will be put on "gif.com" and it will show also that its an unsafe site.
 But theres no risk about it :b
 
+
+4.
+```
+https://yewtu.be
+```
+Which not only holds you Annonymous but also allows you to open any video that got age restricted
+My favorite of all there
+[https://yewtu.be/watch?v=wu4l0qSohLQ](https://yewtu.be/watch?v=wu4l0qSohLQ)
+:b
 
 ## Markdown made by pascal
 ### Enjoy!!!!
