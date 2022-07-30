@@ -47,6 +47,12 @@ www.youtuberepeater.com
 which is another site that still contains all of the videos with thier corresonding links\
 [https://www.youtuberepeater.com/watch?v=wu4l0qSohLQ](https://www.youtuberepeater.com/watch?v=wu4l0qSohLQ)
 
+```
+www.youxube.com
+```
+which is another one for looping videos
+[https://www.youxube.com/watch?v=wu4l0qSohLQ](https://www.youxube.com/watch?v=wu4l0qSohLQ)
+
 2.
 ```
 www.nsfwyoutube.com
@@ -78,4 +84,5 @@ My favorite of all there
 ## Markdown made by pascal
 ### Enjoy!!!!
 
+##### Shoutout to rebecca
 
