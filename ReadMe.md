@@ -50,25 +50,25 @@ which is another site that still contains all of the videos with thier corresond
 ```
 www.youxube.com
 ```
-which is another one for looping videos
+which is another one for looping videos\
 [https://www.youxube.com/watch?v=wu4l0qSohLQ](https://www.youxube.com/watch?v=wu4l0qSohLQ)
 
 2.
 ```
 www.nsfwyoutube.com
 ```
-which can bypass the age restriction on videos.
-[https://www.nsfwyoutube.com/watch?v=wu4l0qSohLQ](https://www.nsfwyoutube.com/watch?v=wu4l0qSohLQ)
-Don't worry, theres nothing specificly NFSW its litterally just a bypass of the age restriction we all hate in europe
+which can bypass the age restriction on videos.\
+[https://www.nsfwyoutube.com/watch?v=wu4l0qSohLQ](https://www.nsfwyoutube.com/watch?v=wu4l0qSohLQ)\
+Don't worry, theres nothing specificly NFSW its litterally just a bypass of the age restriction we all hate in europe\
 **Note: google deactivated that function**
 
 3.
 ```
 www.gifyoutube.com
 ```
-Which is here to make gifs easely out of videos
-[https://www.gifyoutube.com/watch?v=wu4l0qSohLQ](https://www.gifyoutube.com/watch?v=wu4l0qSohLQ)
-You will be put on "gif.com" and it will show also that its an unsafe site.
+Which is here to make gifs easely out of videos\
+[https://www.gifyoutube.com/watch?v=wu4l0qSohLQ](https://www.gifyoutube.com/watch?v=wu4l0qSohLQ)\
+You will be put on "gif.com" and it will show also that its an unsafe site.\
 But theres no risk about it :b
 
 
@@ -76,9 +76,9 @@ But theres no risk about it :b
 ```
 https://yewtu.be
 ```
-Which not only holds you Annonymous but also allows you to open any video that got age restricted
-My favorite of all there
-[https://yewtu.be/watch?v=wu4l0qSohLQ](https://yewtu.be/watch?v=wu4l0qSohLQ)
+Which not only holds you Annonymous but also allows you to open any video that got age restricted\
+My favorite of all there\
+[https://yewtu.be/watch?v=wu4l0qSohLQ](https://yewtu.be/watch?v=wu4l0qSohLQ)\
 :b
 
 ## Markdown made by pascal
